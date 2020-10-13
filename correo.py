@@ -3,7 +3,7 @@
 
 def my_email():
 
-    correo = 'victor.frances@alu.uclm.es'
+    return 'victor.frances@alu.uclm.es'
 
-    return correo
+    
 
